@@ -1,0 +1,7 @@
+.pynb_checkpoints/
+__pycache__/
+*.pyc
+venv/
+
+data/
+*.csv
