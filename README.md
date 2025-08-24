@@ -1,7 +1,3 @@
-Here's a revised version of your README.md that improves formatting, fixes markdown issues, and ensures everything looks good in GitHub Preview:
-
----
-
 # 🌦️ Weather Visualization Project
 
 ## 📌 Overview
